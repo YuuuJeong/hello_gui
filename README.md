@@ -4,8 +4,10 @@
 
 # Github Desktop is very good
 
-# My name is YuJeongHo
+# My name is YuJeongHo!!
 
 # My major is Software Engineering.
 
 # I edit Readme.md at github website.
+
+# I edit Readme.md at br_1 branch.
