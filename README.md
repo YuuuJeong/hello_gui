@@ -4,7 +4,7 @@
 
 # Github Desktop is very good
 
-# My name is YuJeongHo
+# My name is YuJeongHo!!
 
 # My major is Software Engineering.
 
