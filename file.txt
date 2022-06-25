@@ -10,3 +10,4 @@ Duis sit amet aliquam diam. Ut purus nibh, interdum ornare lorem at, tempus comm
 Aliquam sit amet urna malesuada, tincidunt lorem quis, pulvinar nulla. Mauris tristique diam ut pharetr
 i blandit, convallis ipsum ac, posuere metus.
 So, it is sad-ending.
+But, I hope that next-version will be happy ending.
