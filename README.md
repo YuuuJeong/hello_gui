@@ -2,6 +2,8 @@
 
 # Practice Github Desktop
 
-# Github Desktop is good
+# Github Desktop is very good
 
 # My name is YuJeongHo
+
+# My major is Software Engineering.
